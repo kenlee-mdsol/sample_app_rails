@@ -176,11 +176,7 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-<<<<<<< HEAD
-    sorbet-runtime (0.5.10616)
-=======
     sorbet-runtime (0.5.10621)
->>>>>>> main
     sprockets (4.2.0)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
